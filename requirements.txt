@@ -6,7 +6,7 @@ configparser==3.5.0
 enum34==1.1.6
 future==0.16.0
 flake8==3.5.0
-flasgger==0.8.1
+flasgger==0.9.0
 Flask==0.12.2
 Flask-Admin==1.5.1
 Flask-DbShell==1.0
