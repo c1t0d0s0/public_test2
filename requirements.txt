@@ -8,7 +8,7 @@ enum34==1.1.6
 future==0.16.0
 flasgger==0.9.1
 Flask==1.0.2
-Flask-Admin==1.5.2
+Flask-Admin==1.5.3
 Flask-DbShell==1.0
 Flask-Migrate==2.2.1
 Flask-RESTful==0.3.6
